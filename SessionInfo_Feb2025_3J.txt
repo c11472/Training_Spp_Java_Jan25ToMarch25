@@ -1,0 +1,58 @@
+Scenario -
+Read each string from file and display ...
+
+Tips for solution
+Read data from file as Strings 
+1. specify filepath
+2. Create FileReader object
+3. Create BufferedReader object using FileReader Object as param
+
+4. Traverse using while
+
+strval = reader.readLine()) != null{
+}
+
+Topics - Feb2025-3J:
+
+1. Converting data from String to require type [int , double]
+2. StringBuffer
+3. static members ---- 
+     3a. static variable
+     3b. static method
+     3c. static block
+
+4. default method in interface
+5. static method in interface
+6. Read each string from file and display ...
+
+
+Wrapper classes :
+
+    Integer  ----- int
+    Double   ----- double
+
+static key word
+    - variable
+    -methods
+    - block 
+
+constructor can not be static
+
+main method is static
+
+
+
+static variable uninitialized
+static variable initialized
+accessing static variables from different class
+      ClassName.StaticVariableName
+
+
+
+
+
+
+
+
+    
+
